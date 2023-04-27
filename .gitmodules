@@ -1,0 +1,21 @@
+[submodule "gps_serial"]
+	path = gps_serial
+	url = https://github.com/nicorossirice/gps_serial.git
+[submodule "EthernetAPI"]
+	path = EthernetAPI
+	url = https://github.com/nicorossirice/EthernetAPI.git
+[submodule "rcJetson"]
+	path = rcJetson
+	url = https://github.com/nicorossirice/rcJetson.git
+[submodule "rcPWM"]
+	path = rcPWM
+	url = https://github.com/nicorossirice/rcPWM.git
+[submodule "DemandGPSParser"]
+	path = DemandGPSParser
+	url = https://github.com/nicorossirice/DemandGPSParser.git
+[submodule "YoungWoodsCar"]
+	path = YoungWoodsCar
+	url = https://github.com/nicorossirice/YoungWoodsCar.git
+[submodule "autopark"]
+	path = autopark
+	url = https://github.com/ett2/autopark.git
