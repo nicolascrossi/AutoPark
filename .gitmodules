@@ -28,3 +28,6 @@
 [submodule "AutoPark-CAD"]
 	path = AutoPark-CAD
 	url = https://github.com/nicolascrossi/AutoPark-CAD.git
+[submodule "Autopark-CV"]
+	path = Autopark-CV
+	url = https://github.com/eschwartz7/Autopark-CV.git
