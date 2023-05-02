@@ -19,3 +19,9 @@
 [submodule "autopark"]
 	path = autopark
 	url = https://github.com/ett2/autopark.git
+[submodule "YoungWoodsArduinos"]
+	path = YoungWoodsArduinos
+	url = https://github.com/phuson135/YoungWoodsArduinos.git
+[submodule "AutoPark-Reverse"]
+	path = AutoPark-Reverse
+	url = https://github.com/nicolascrossi/AutoPark-Reverse.git
