@@ -32,4 +32,8 @@ This repository is the actual code which ran on the Jetson for controlling the g
 
 ## Autpark-CV
 
-## Autport-ReverseControl
+This repository contains the code used to run the stereo camera, identifying objects in front of the golf cart and their distances before warning the Beaglebone Black.
+
+## Autport-Reverse
+
+This repository contains the code for the Arduino which manages the motor to toggle the reverse switch, including watching the sensors to prevent over rotation.
