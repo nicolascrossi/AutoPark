@@ -30,10 +30,10 @@ This repository contains the code used on the BeagleBone Black for receiving ord
 
 This repository is the actual code which ran on the Jetson for controlling the golf cart. It is a fork of the Donkeycar project, with some tweaks for using the EthernetAPI to issue orders and custom bindings for use with an Xbox controller.
 
-## Autpark-CV
+## AutoPark-CV
 
 This repository contains the code used to run the stereo camera, identifying objects in front of the golf cart and their distances before warning the Beaglebone Black.
 
-## Autport-Reverse
+## AutoPark-Reverse
 
 This repository contains the code for the Arduino which manages the motor to toggle the reverse switch, including watching the sensors to prevent over rotation.
