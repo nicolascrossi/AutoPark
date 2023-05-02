@@ -25,3 +25,6 @@
 [submodule "AutoPark-Reverse"]
 	path = AutoPark-Reverse
 	url = https://github.com/nicolascrossi/AutoPark-Reverse.git
+[submodule "AutoPark-CAD"]
+	path = AutoPark-CAD
+	url = https://github.com/nicolascrossi/AutoPark-CAD.git
