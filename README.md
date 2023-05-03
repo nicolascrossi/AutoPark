@@ -2,6 +2,10 @@
 
 This is the central repository for all the code written for the '22 - '23 AutoPark project. None of the code is actually part of this repo. Instead, this repo has multiple submodules, each of which contains the actual code. If someone wishes to work with the code, find the relevant submodule then clone it, rather than working in this repo. Below is a list of what each submodule contains.
 
+## User Manual
+
+This is the user manual for our project, and includes topics both related and unrelated to programming.
+
 ## autopark
 
 This repository contains a large chunk of the code used by the embedded portions of the project. This includes the wireless fob, the state machine used in the cart, the code to drive the screen, and the code to manage the ultrasonic sensors.
